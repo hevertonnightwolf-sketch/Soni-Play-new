@@ -1,0 +1,28 @@
+{
+  "servidores": [
+    {
+      "id": "01",
+      "nome": "Soni Play 01",
+      "dns": "http://22.bm3w.site",
+      "logo": "",
+      "ativo": true,
+      "prioridade": 1,
+      "mostrar_vencimento": true,
+      "vitalicio": false,
+      "renovacao_url": "",
+      "renovacao_qrcode": ""
+    },
+    {
+      "id": "02",
+      "nome": "Soni Play 02",
+      "dns": "http://xc.spkdns.com",
+      "logo": "",
+      "ativo": true,
+      "prioridade": 2,
+      "mostrar_vencimento": true,
+      "vitalicio": false,
+      "renovacao_url": "",
+      "renovacao_qrcode": ""
+    }
+  ]
+}
