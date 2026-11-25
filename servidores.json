@@ -21,6 +21,17 @@
       "mostrar_vencimento": true,
       "vitalicio": false,
       "renovacao_url": ""
+    },
+    {
+      "id": "03",
+      "nome": "BRASIL IPTV",
+      "dns": "http://dns2.apontamento.store",
+      "logo": "logos/logo-e55d3749f59f35dfeab3f698.png",
+      "ativo": true,
+      "prioridade": 3,
+      "mostrar_vencimento": true,
+      "vitalicio": false,
+      "renovacao_url": ""
     }
   ]
 }
