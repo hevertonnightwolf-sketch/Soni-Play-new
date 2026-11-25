@@ -2,27 +2,25 @@
   "servidores": [
     {
       "id": "01",
-      "nome": "Soni Play 01",
+      "nome": "LTC",
       "dns": "http://22.bm3w.site",
-      "logo": "",
-      "ativo": true,
-      "prioridade": 1,
-      "mostrar_vencimento": true,
-      "vitalicio": false,
-      "renovacao_url": "",
-      "renovacao_qrcode": ""
-    },
-    {
-      "id": "02",
-      "nome": "Soni Play 02",
-      "dns": "http://xc.spkdns.com",
-      "logo": "",
+      "logo": "logos/logo-3861dc7dd46ee04fdb90309e.png",
       "ativo": true,
       "prioridade": 2,
       "mostrar_vencimento": true,
       "vitalicio": false,
-      "renovacao_url": "",
-      "renovacao_qrcode": ""
+      "renovacao_url": ""
+    },
+    {
+      "id": "02",
+      "nome": "SPARK",
+      "dns": "http://xc.spkdns.com",
+      "logo": "logos/logo-363c1ba17bcdad3c64d32ec9.png",
+      "ativo": true,
+      "prioridade": 1,
+      "mostrar_vencimento": true,
+      "vitalicio": false,
+      "renovacao_url": ""
     }
   ]
 }
