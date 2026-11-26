@@ -43,6 +43,17 @@
       "mostrar_vencimento": true,
       "vitalicio": false,
       "renovacao_url": ""
+    },
+    {
+      "id": "05",
+      "nome": "PLAY TV",
+      "dns": "http://geralplaytop.online",
+      "logo": "logos/logo-8a1dd38983f18e83ccf3bceb.png",
+      "ativo": true,
+      "prioridade": 5,
+      "mostrar_vencimento": true,
+      "vitalicio": false,
+      "renovacao_url": ""
     }
   ]
 }
