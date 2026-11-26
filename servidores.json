@@ -32,6 +32,17 @@
       "mostrar_vencimento": true,
       "vitalicio": false,
       "renovacao_url": ""
+    },
+    {
+      "id": "04",
+      "nome": "BLACK BR",
+      "dns": "http://brblack99.site:80",
+      "logo": "logos/logo-c593b302c29962f16f61279c.png",
+      "ativo": true,
+      "prioridade": 4,
+      "mostrar_vencimento": true,
+      "vitalicio": false,
+      "renovacao_url": ""
     }
   ]
 }
