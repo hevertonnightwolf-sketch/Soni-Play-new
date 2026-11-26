@@ -65,6 +65,17 @@
       "mostrar_vencimento": true,
       "vitalicio": false,
       "renovacao_url": ""
+    },
+    {
+      "id": "07",
+      "nome": "fx teste",
+      "dns": "https://servidor-fxplus.falcaoflex.de",
+      "logo": "",
+      "ativo": true,
+      "prioridade": 7,
+      "mostrar_vencimento": true,
+      "vitalicio": false,
+      "renovacao_url": ""
     }
   ]
 }
