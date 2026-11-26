@@ -54,6 +54,17 @@
       "mostrar_vencimento": true,
       "vitalicio": false,
       "renovacao_url": ""
+    },
+    {
+      "id": "06",
+      "nome": "AURA",
+      "dns": "http://novadoaura.com",
+      "logo": "logos/logo-f0b1b7a9f510ecf987beffe8.png",
+      "ativo": true,
+      "prioridade": 6,
+      "mostrar_vencimento": true,
+      "vitalicio": false,
+      "renovacao_url": ""
     }
   ]
 }
